@@ -61,9 +61,9 @@ Junior Front End Developer | Content Creator | Learner
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamim360&show_icons=true&locale=en" alt="Tamimul Islam" /></p>
 
 
-[facebook]: https://facebook.com/MahbubDev
+[facebook]: https://facebook.com/tamimulislam360
 [twitter]: https://twitter.com/tamimulislam360
 [youtube]: https://www.youtube.com/channel/UCPovlHsNbEQo342yXcOEFDA
-[instagram]: https://instagram.com/mahbubdev/
+[instagram]: https://instagram.com/tamimulislam360/
 [linkedin]: https://linkedin.com/in/tamimulislam360
-[telegram]: https://t.me/TechHelpBangladesh
+[telegram]: https://t.me/TamimOfficial
