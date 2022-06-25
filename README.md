@@ -1,11 +1,11 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQFeqdcdtVzUfw/profile-displaybackgroundimage-shrink_200_800/0/1656128842498?e=1661385600&v=beta&t=0v7OFj8d0nytTcdHKrVoVbEbmj_qbYyKMQGm7UMFrzY" width="100%"/>
 
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Tamimul Islam</h1>
-<h3 align="center">¯\_(ツ)_/¯
+<h3 align="center">
 
-Programmer | Content Creator | Learner
+Junior Front End Developer | Content Creator | Learner
 
-?></h3>
+</h3>
 
 - 🔭 I’m currently working on **Full-stack web development**
 
@@ -17,14 +17,13 @@ Programmer | Content Creator | Learner
 
 - 📫 How to reach me **tamimulislam360@gmail.com**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Tamimul Islam | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="Tamimul Islam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Tamimul Islam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Tamimul Islam | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png)" />][twitter]
 [<img align="left" alt="Tamimul Islam | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
 [<img align="left" alt="Tamimul Islam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tamimul Islam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
