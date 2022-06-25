@@ -1,3 +1,5 @@
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQFeqdcdtVzUfw/profile-displaybackgroundimage-shrink_200_800/0/1656128842498?e=1661385600&v=beta&t=0v7OFj8d0nytTcdHKrVoVbEbmj_qbYyKMQGm7UMFrzY" />
+
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Tamimul Islam</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
