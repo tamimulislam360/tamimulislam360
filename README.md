@@ -6,7 +6,7 @@ MERN Stack Developer
 </h3>
 <p align="center">
   <a href="mailto:tamimulislam360@gmail.com">tamimulislam360@gmail.com</a> <br />
-  <a href="tel:+8801791337701">+8801791337701</a>
+  <a href="tel:01791337701">+8801791337701</a>
 </p>
 
 Hey there, I'm **Tamimul Islam** from Chittagong, Bangladesh. I'm a MERN Stack Developer. Since last 2 years, I have been doing web development. Developed some full stack projects. I build well-designed, user-friendly, responsive, scalable web applications with MERN Stack and next-generation web technologies. Currently I'm looking forward to an opportunity to utilize my skills and expand my career as well.
