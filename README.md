@@ -1,22 +1,13 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFeqdcdtVzUfw/profile-displaybackgroundimage-shrink_200_800/0/1656128842498?e=1661385600&v=beta&t=0v7OFj8d0nytTcdHKrVoVbEbmj_qbYyKMQGm7UMFrzY" width="100%"/>
+<img src="https://www.linkedin.com/in/tamimulislam360/overlay/background-image/" width="100%"/>
 
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Tamimul Islam</h1>
 <h3 align="center">
 
-Junior Front End Developer | Content Creator | Learner
+MERN Stack Developer
 
 </h3>
 
-- 🔭 I’m currently working on **Full-stack web development**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **tamimulislam360@gmail.com**
-
+Hey there, I'm **Tamimul Islam** from Chittagong, Bangladesh. I'm a MERN Stack Developer. Since last 2 years, I have been doing web development. Developed some full stack projects. I build well-designed, user-friendly, responsive, scalable web applications with MERN Stack and next-generation web technologies. Currently I'm looking forward to an opportunity to utilize my skills and expand my career as well.
 
 ### Connect with me:
 
