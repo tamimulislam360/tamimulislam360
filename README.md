@@ -18,7 +18,7 @@ Hey there, I'm **Tamimul Islam** from Chittagong, Bangladesh. I'm a MERN Stack D
 [<img align="left" alt="Tamimul Islam | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
 [<img align="left" alt="Tamimul Islam | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>][twitter]
 [<img align="left" alt="Tamimul Islam | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" />][telegram]
-[<img align="left" alt="Tamimul Islam | LinkedIn" width="22px" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" />][linkedin]
+[<img align="left" alt="Tamimul Islam | LinkedIn" width="30px" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" />][linkedin]
 [<img align="left" alt="Tamimul Islam | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
@@ -43,7 +43,7 @@ Hey there, I'm **Tamimul Islam** from Chittagong, Bangladesh. I'm a MERN Stack D
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamimulislam360.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Tamim's github activity graph](https://activity-graph.herokuapp.com/graph?username=tamimulislam360&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Tamim360/github-readme-activity-graph)
+[![Tamim's github activity graph](https://activity-graph.herokuapp.com/graph?username=tamimulislam360&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/tamimulislam360/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
