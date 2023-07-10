@@ -1,11 +1,12 @@
 <img src="https://media.licdn.com/dms/image/D5616AQFYTjyaMjTunw/profile-displaybackgroundimage-shrink_350_1400/0/1688315440871?e=1694649600&v=beta&t=xTVtqgLTDk294-qtMj618dI_p4rDB8fvG7-8s691VQs" width="100%"/>
 
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Tamimul Islam</h1>
+<h2 align="center">Tamimul Islam</h2>
 <h3 align="center">
-
 MERN Stack Developer
-
 </h3>
+<p align="center">
+  <a mailto:tamimulislam360@gmail.com>tamimulislam360@gmail.com</a>
+</p>
 
 Hey there, I'm **Tamimul Islam** from Chittagong, Bangladesh. I'm a MERN Stack Developer. Since last 2 years, I have been doing web development. Developed some full stack projects. I build well-designed, user-friendly, responsive, scalable web applications with MERN Stack and next-generation web technologies. Currently I'm looking forward to an opportunity to utilize my skills and expand my career as well.
 
