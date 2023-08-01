@@ -27,7 +27,7 @@ MERN Stack Developer
 
 Hi there, I’m Tamimul Islam, from Chittagong, Bangladesh. A passionate and dedicated MERN Stack Developer who build user-friendly, responsive, high-performance and scalable web applications with next-generation web technologies.
 
-🔥 ###My Tech Stacks:
+### 🔥 My Tech Stacks:
 
 → HTML, CSS, Javascript, Typescript <br />
 → React.js, Redux, Next.js, Zoostand, React-hook-form <br />
@@ -37,7 +37,7 @@ Hi there, I’m Tamimul Islam, from Chittagong, Bangladesh. A passionate and ded
 → Tailwind, Bootstrap, ChakraUI <br />
 
 
-🔥 ###My key specialities:
+### 🔥 My key specialities:
 
 ✅ Building user-friendly, elegant,  responsive user interface with React, Next.js and next-generation frontend technologies. <br />
 ✅ Develop high-performance, and scalable web applications with MERN stack. <br />
