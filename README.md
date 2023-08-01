@@ -10,7 +10,7 @@ MERN Stack Developer
 </p>
 
 
-<p style="display:flex; justify-content:center; gap: 10px">
+<p align="center" style="display:flex; justify-content:center; gap: 10px">
 <a target="_blank" href="https://facebook.com/tamimulislam360">
 <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white">
 </a>
