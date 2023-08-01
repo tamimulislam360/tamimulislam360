@@ -13,28 +13,28 @@ Hi there, I’m Tamimul Islam, from Chittagong, Bangladesh. A passionate and ded
 
 🔥 My Tech Stacks:
 
->> HTML, CSS, Javascript, Typescript
->> React.js, Redux, Next.js, Zoostand, React-hook-form
->> Node.js, Express.js, Strapi, Socket.io, Stripe
->> MongoDB, Mongoose, GraphQL, Prisma
->> Firebase, Supbase, NextAuth
->> Tailwind, Bootstrap, ChakraUI
+> HTML, CSS, Javascript, Typescript <br />
+> React.js, Redux, Next.js, Zoostand, React-hook-form <br />
+> Node.js, Express.js, Strapi, Socket.io, Stripe <br />
+> MongoDB, Mongoose, GraphQL, Prisma <br />
+> Firebase, Supbase, NextAuth <br />
+> Tailwind, Bootstrap, ChakraUI <br />
 
 
 🔥 My key specialities:
 
-✅ Building user-friendly, elegant,  responsive user interface with React, Next.js and next-generation frontend technologies.
-✅ Develop high-performance, and scalable web applications with MERN stack.
-✅ Write clean, structured and easily maintainable code.
-✅ Utilize the latest web technologies to improve performance and scalability.
-✅ Utilize the AI tools to improve productivity.
-✅ Team player and problem solver with analytical thinking.
-✅ Always eager to learn and stay up-to-date with the latest industry trends and advancements.
-✅ Providing exceptional customer service throughout the development process.
-✅ Developed several industry level high performance web applications.
+✅ Building user-friendly, elegant,  responsive user interface with React, Next.js and next-generation frontend technologies. <br />
+✅ Develop high-performance, and scalable web applications with MERN stack. <br />
+✅ Write clean, structured and easily maintainable code. <br />
+✅ Utilize the latest web technologies to improve performance and scalability. <br />
+✅ Utilize the AI tools to improve productivity. <br />
+✅ Team player and problem solver with analytical thinking. <br />
+✅ Always eager to learn and stay up-to-date with the latest industry trends and advancements. <br />
+✅ Providing exceptional customer service throughout the development process. <br />
+✅ Developed several industry level high performance web applications. <br />
 
 👉 If you are looking for a dedicated, skilled and experienced developer to bring your web development projects to the next level, I am the right person for you. Let's connect and work together to create something amazing!
-
+<br /> <br />
 
 ### Connect with me:
 
@@ -47,9 +47,6 @@ Hi there, I’m Tamimul Islam, from Chittagong, Bangladesh. A passionate and ded
 [<img align="left" alt="Tamimul Islam | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
-<br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamimulislam360.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
 [![Tamim's github activity graph](https://activity-graph.herokuapp.com/graph?username=tamimulislam360&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/tamimulislam360/github-readme-activity-graph)
