@@ -9,6 +9,22 @@ MERN Stack Developer
   <a href="tel:01791337701">+8801791337701</a>
 </p>
 
+
+<p style="display:flex; justify-content:center; gap: 10px">
+<a target="_blank" href="https://facebook.com/tamimulislam360">
+<img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/tamimulislam360/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+</a>
+<a target="_blank" href="https://twitter.com/tamimulislam360">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white">
+</a>
+<a target="_blank" href="https://www.instagram.com/tamimulislam360">
+<img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white">
+</a>
+</p>
+
 Hi there, I’m Tamimul Islam, from Chittagong, Bangladesh. A passionate and dedicated MERN Stack Developer who build user-friendly, responsive, high-performance and scalable web applications with next-generation web technologies.
 
 🔥 My Tech Stacks:
