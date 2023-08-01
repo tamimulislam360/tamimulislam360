@@ -13,12 +13,12 @@ Hi there, I’m Tamimul Islam, from Chittagong, Bangladesh. A passionate and ded
 
 🔥 My Tech Stacks:
 
-> HTML, CSS, Javascript, Typescript <br />
-> React.js, Redux, Next.js, Zoostand, React-hook-form <br />
-> Node.js, Express.js, Strapi, Socket.io, Stripe <br />
-> MongoDB, Mongoose, GraphQL, Prisma <br />
-> Firebase, Supbase, NextAuth <br />
-> Tailwind, Bootstrap, ChakraUI <br />
+→ HTML, CSS, Javascript, Typescript <br />
+→ React.js, Redux, Next.js, Zoostand, React-hook-form <br />
+→ Node.js, Express.js, Strapi, Socket.io, Stripe <br />
+→ MongoDB, Mongoose, GraphQL, Prisma <br />
+→ Firebase, Supbase, NextAuth <br />
+→ Tailwind, Bootstrap, ChakraUI <br />
 
 
 🔥 My key specialities:
