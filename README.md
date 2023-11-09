@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D5616AQFYTjyaMjTunw/profile-displaybackgroundimage-shrink_350_1400/0/1688315447341?e=1704931200&v=beta&t=Q8CbIuvAm-YBvpg3Wk2XIl2hW6Ine0ql9zmfpJaYrKI" width="100%"/>
 
-<h3 align="center" style="font-size: 36px">Tamimul Islam</h3>
+<h3 align="center" style="font-size: 40px">Tamimul Islam</h3>
 <h4 align="center" style="font-size: 28px; margin-top: -20px">
 MERN Stack Developer
 </h4>
