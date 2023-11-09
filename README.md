@@ -1,15 +1,15 @@
 <img src="https://media.licdn.com/dms/image/D5616AQFYTjyaMjTunw/profile-displaybackgroundimage-shrink_350_1400/0/1688315447341?e=1704931200&v=beta&t=Q8CbIuvAm-YBvpg3Wk2XIl2hW6Ine0ql9zmfpJaYrKI" width="100%"/>
 
-<h3 align="center">Tamimul Islam</h3>
-<h4 align="center">
+<h3 align="center" style="font-size: 36px">Tamimul Islam</h3>
+<h4 align="center" style="font-size: 28px; margin-top: -10px">
 MERN Stack Developer
 </h4>
-<p align="center">
+<p align="center" style="font-size: 14px; margin-top: -10px">
   <a href="mailto:tamimulislam360@gmail.com">tamimulislam360@gmail.com</a> <br />
   <a href="tel:01791337701">+8801791337701</a>
 </p>
 
-// social icons
+
 <p align="center" style="display:flex; justify-content:center; gap: 10px">
 <a target="_blank" href="https://facebook.com/tamimulislam360">
 <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white">
